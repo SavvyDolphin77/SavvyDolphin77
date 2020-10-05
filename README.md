@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome To the Future
+
+\<!-- This profile README is currently under construction. Stay tuned for updates and sorry for mess/lack of info. -->
+
+Hello there, I am Conner Harbaugh and this is my Github Account. 
+
+
 
 <!--
 **SavvyDolphin77/SavvyDolphin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
