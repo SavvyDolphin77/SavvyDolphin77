@@ -4,7 +4,7 @@
 
 Hello there, I am Conner Harbaugh and this is my Github Account. 
 
-
+Currently working on FreeCodeCamp courses, which is why activity on Github may appear to be very little. My apologies.
 
 <!--
 **SavvyDolphin77/SavvyDolphin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
