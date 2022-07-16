@@ -1,12 +1,12 @@
 ### Welcome To the Future
 
-\<!-- This profile README is currently under construction. Stay tuned for updates and sorry for mess/lack of info. -->
+\<!-- This profile README is currently under construction. Stay tuned for updates. -->
 
 Hello there, I am Conner Harbaugh and this is my Github Account. 
 
-Currently working on FreeCodeCamp courses, which is why activity on Github may appear to be very little. My apologies.
+Currently working on my personal portfolio website as well as a few other side projects.
 
-If you want to support me, feel free to tip some BAT (Basic Attention Tokens).
+Currently I am learning Javascript and other web technologies besides HTML and CSS for my current job as a Techranger.
 
 <!--
 **SavvyDolphin77/SavvyDolphin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
