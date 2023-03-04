@@ -4,9 +4,9 @@
 
 Hello there, I am Conner Harbaugh and this is my Github Account. 
 
-Currently working on my personal portfolio website as well as a few other side projects.
+Currently I am working on developing software in python and maintaing webcourses for Techrangers.
 
-Currently I am learning Javascript and other web technologies besides HTML and CSS for my current job as a Techranger.
+I am also learning Python and Javascript as well as other web technologies besides HTML and CSS for my current job as a Techranger.
 
 <!--
 **SavvyDolphin77/SavvyDolphin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
